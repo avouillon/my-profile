@@ -46,7 +46,10 @@ a:hover {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
-  }
+	}
+   #header-button {
+   	font-size: 13px;
+   }
 }
 
 
